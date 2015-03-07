@@ -1,0 +1,13 @@
+html{
+    width: 100%;
+    background-color:gray;
+}
+body{
+    width:1200px;
+    background-color:white;
+    margin:auto;
+    padding:20px;
+}
+h1{
+    text-align:center;
+}

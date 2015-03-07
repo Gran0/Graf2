@@ -1,0 +1,14 @@
+html{
+    width: 100%;
+    background-color:black;
+}
+body{
+    width:1200px;
+    color:white;
+    background-color:#2a2a2b;
+    margin:auto;
+    padding:20px;
+}
+h1{
+    text-align:center;
+}
